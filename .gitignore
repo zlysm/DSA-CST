@@ -30,3 +30,30 @@
 *.exe
 *.out
 *.app
+main
+test
+
+# Test case
+*.in
+*.ans
+results
+
+# Debug files
+.vscode
+*.dSYM
+
+# LAB1
+battle
+check_input
+rand_input
+solution_1
+solution_2
+solution_3
+
+# LAB3
+generator
+
+# upload to oj
+*.zip
+
+.DS_Store
